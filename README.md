@@ -77,6 +77,10 @@ python test.py \
     --output experiments/my_experiment/results_test.json
 ```
 
+## Model weights
+
+Model weights for the W-RIZZ model (with L-RIZZ, pretraining on RUGD, and mean teacher) can be found here: https://uofi.box.com/s/s73bnggeo48o8iyzem4c5w6aduc208h2.
+
 ## Environment setup
 You can set up the environment using the provided ``environment.yml`` conda environment file (``conda env create -f environment.yml``).
 
